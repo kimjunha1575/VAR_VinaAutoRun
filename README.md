@@ -1,4 +1,3 @@
 # VAR_VinaAutoRun
-(Backup)Automation of AutoDock Vina 1.2
-This is not a fully developed S/W for automation of ADV 1.2.
-This is just a simple python script to automate a program used for my college senior project.
+Automation of 1:N molecular docking process performed by [AutoDock Vina](https://vina.scripps.edu/) (1.2).
+
