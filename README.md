@@ -10,3 +10,11 @@ Simple automation of 1:N molecular docking process performed by [AutoDock Vina](
 5. Filter ligands by size and MW.
 6. Dock ligands to the receptor.
 7. Summarize the results.
+
+## Dependencies
+- [AutoDock Vina](https://vina.scripps.edu/)
+- ADFRsuite 1.0
+- Open Babel 3.1.1
+- Gypsum-DL 1.0.0
+- Python 3.8.5
+- pdb-tools 2.0
